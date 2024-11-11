@@ -1,4 +1,4 @@
-# User Registration and Login (Medium)
+# Task 1: User Registration and Login (Medium)
 
 ## Prerequisites
 
